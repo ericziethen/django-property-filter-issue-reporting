@@ -17,6 +17,12 @@ Describe the data setup and what went wrong.
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Logs**
+If possible enable debug logs when reproducing the issue and provide either
+as part of the ticket or a download location.
+Please try to keep the test sample as small as possible to keep the debug log
+at a minimum size.
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
